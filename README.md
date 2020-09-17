@@ -1,1 +1,0 @@
-# FibonacciSequence_Go-
